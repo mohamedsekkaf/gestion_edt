@@ -17,5 +17,7 @@ For building and running the application you need:
 - [Maven 3](https://maven.apache.org)
 - [Spring boot 2.2.2](https://start.spring.io/)
 - [Vuejs](https://vuejs.org/)
+# Screenshot
+![edtCapture](https://user-images.githubusercontent.com/49958258/71784044-1db03d80-2fef-11ea-8207-1126641499e7.PNG)
 
 
