@@ -26,5 +26,5 @@ For building and running the application you need:
 # Screenshot
 ![edtCapture](https://user-images.githubusercontent.com/49958258/71784044-1db03d80-2fef-11ea-8207-1126641499e7.PNG)
 
-## Acknoledjment
+## Acknowledgment
 * special thanks to anyone's code that we have used
